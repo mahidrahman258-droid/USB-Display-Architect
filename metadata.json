@@ -1,0 +1,8 @@
+{
+  "name": "Remix: USB Display Architect",
+  "description": "Interactive production-grade architecture designer, latency simulator, and protocol modeler for USB-based secondary screen streaming.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

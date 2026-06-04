@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- USB AOA 2.0 Accessory details representing our custom Qt 6 C++ host engine -->
+    <usb-accessory 
+        manufacturer="PlugScreen" 
+        model="DesktopExtension" 
+        version="1.0" />
+</resources>
